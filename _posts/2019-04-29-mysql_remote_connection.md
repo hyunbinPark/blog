@@ -81,7 +81,7 @@ Mysql -h[IP address] -u [user] -p [password]
 
 
 *GCP SETTING 참고*
-https://brunch.co.kr/@smalljiny/3
+[link]https://brunch.co.kr/@smalljiny/3
 
 *에러시 참고* 
-https://zetawiki.com/wiki/ERROR_2003_(HY000):_Can%27t_connect_to_MySQL_server_on
+[link]https://zetawiki.com/wiki/ERROR_2003_(HY000):_Can%27t_connect_to_MySQL_server_on
